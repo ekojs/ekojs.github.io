@@ -3,7 +3,7 @@
 ###Catatan Kecil Seorang Engineer
 ####Ilmu adalah titipan `ilahi`, tak selamanya kita miliki tapi tetap harus kita cari.
 
-[https://ekojs.github.io](https://ekojs.github.io/my_blog)
+[https://ekojs.github.io](https://ekojs.github.io/)
 
 -----
 
