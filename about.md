@@ -10,6 +10,6 @@ And, I'm a cryptographer, I've build several Service Generator, a kind of Auto-C
 
 You can find the source code for this site at:
 {% include icon-github.html username="ekojs" %} /
-[my_blog](https://github.com/ekojs/my_blog)
+[my_blog](https://github.com/ekojs/ekojs.github.io)
 
-If you have an issue about this site, please feel free to open [**New Issue**](https://github.com/ekojs/my_blog/issues/new)
+If you have an issue about this site, please feel free to open [**New Issue**](https://github.com/ekojs/ekojs.github.io/issues/new)
