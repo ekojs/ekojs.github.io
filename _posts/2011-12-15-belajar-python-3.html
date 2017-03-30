@@ -1,0 +1,12 @@
+---
+layout: post
+title: Belajar Python 3
+date: '2011-12-15T20:30:00.000-08:00'
+author: Eko Junaidi S
+tags: 
+modified_time: '2011-12-15T20:33:33.191-08:00'
+blogger_id: tag:blogger.com,1999:blog-4260504944092395316.post-1577608408862160563
+blogger_orig_url: http://eko-artikel.blogspot.com/2011/12/belajar-python-3.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://www.newthinktank.com/wp-content/uploads/2010/08/Python-Logo.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="http://www.newthinktank.com/wp-content/uploads/2010/08/Python-Logo.gif" width="320" /></a></div><br /><div align="justify">Pada post kali ini penulis akan membahas bagaimana <b>Mengetahui tgl besok, hari ke, dan validasi dari sebuah tanggal </b>apakah ditulis benar ato tidak pada Python.<br /><br />Input : besok(d,m,y) = besok(31,12,2011)<br />Outpu : (1,1,2012)</div><div align="justify"><br /></div><div align="justify">Input : harix(d,m,y) = harix(31,12,2011)<br />Outpu : 365 </div><a name='more'></a><br /><div align="justify">Coding ini digunakan untuk mengetahui tanggal, harike, dan validasi sebuah tanggal yang dimasukkan. Coding ini menggunakan fungsi <b>Lambda()</b> pada Python, seperti kode dibawah ini:</div><div align="justify"><br /></div><div align="justify"><span class="commentBody" data-jsid="text"><br />feb= lambda y: ((y%100 and not y%4) or not y%400) + 28<br />bln=lambda m,y:[0,31,feb(y),31,30,31,30,31,31,30,31,30,31][m] if y&gt;0 and 0<m>&lt;13 else 0<br />valid = lambda d,m,y:0<d>&lt;=bln(m,y)<br />besok= lambda d,m,y:((d+1,m,y)if d<bln(m,y)else(1,m+1)if m="">&lt;12 else (1,1,y+1))if valid(d,m,y)else(0,0,0)<br />harix=lambda d,m,y:sum([0,31,feb(y),31,30,31,30,31,31,30,31,30,31][: m],d) if valid(d,m,y)else 0</bln(m,y)else(1,m+1)if></d></m></span><br /><br />Keterangan Code:<br /><b>Fungsi Lambda()</b>, sebagai procedure anonymous delegate yang memiliki nilai balik berupa data <b>Tuple Type</b><br /><br />Untuk kode diatas dapat diketikkan langsung pada shell python, so.... tunggu apa lagi langsung menuju TKP aja gan....<br />lebih mudah bila langsung dipraktekkan....<br /><br /><br />By : Eko Junaidi salam<br />Sekian dan terima kasih<br />Wassalam.....</div>
