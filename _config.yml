@@ -1,7 +1,9 @@
 title: My Personal Blog
 email: eko_junaidisalam@live.com
-description: > # this means to ignore newlines until "baseurl:"
-  Ilmu adalah titipan `ilahi`, tak selamanya kita miliki tapi tetap harus kita cari.
+name: Eko Junaidi Salam
+description: Catatan Kecil Seorang Engineer
+#description: > # this means to ignore newlines until "baseurl:"
+#  Ilmu adalah titipan `ilahi`, tak selamanya kita miliki tapi tetap harus kita cari.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 excerpt_separator: <a name='more'></a>
@@ -11,6 +13,8 @@ github_username:  ekojs
 disqus:
    shortname: ekojunaidisalam
 google_analytics: UA-92973163-2
+
+highlighter: true
 
 # Build settings
 markdown: kramdown
