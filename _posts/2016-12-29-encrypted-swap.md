@@ -25,9 +25,8 @@ tags:
   - swap
   - ubuntu
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/12/swap_bug.png"><img class="aligncenter wp-image-305 size-full" src="https://ekojunaidisalam.com/wp-content/uploads/2016/12/swap_bug.png" alt="Encrypted Swap" width="732" height="227" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/12/swap_bug.png 732w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/swap_bug-300x93.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/swap_bug-500x155.png 500w" sizes="(max-width: 732px) 100vw, 732px" /></a>Encrypted Swap menggunakan LUKS Encryption
-</h2>
+![encrypted-swap-using-luks](/wp-content/uploads/2016/12/swap_bug.png)
+<h2 style="text-align: center;">Encrypted Swap menggunakan LUKS Encryption</h2>
 
 <p style="text-align: justify;">
   Dua hari yang lalu saya dibuat kaget dengan tidak terbacanya <strong>swap</strong> saat melakukan pengecekan menggunakan <span class="lang:default decode:true crayon-inline ">free -h</span>&nbsp;. Seperti terlihat di gambar, swap saya total <strong>0B</strong> yang seharusnya sekitar <strong>8GB</strong>. Ketika saya cek <em>crypttab</em> dan <em>fstab</em> semua tidak ada masalah, namun ketika saya cek blkid, saya kaget setengah sadar 😀 UUID pada partisi saya yang <span class="lang:default decode:true crayon-inline ">/dev/sda6</span>&nbsp; hanya berisi <strong>PARTUUID</strong> tanpa <strong>UUID</strong>, saya cari-cari di device tidak ada UUID yang tersimpan pada <em>crypttab</em>. Kebetulan saya memasang Encrypted Swap menggunakan LUKS Encryption begitu juga dengan beberapa partisi pada laptop saya.

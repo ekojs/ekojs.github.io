@@ -23,9 +23,8 @@ tags:
   - K-Means Algorithm
   - K-Means Clustering
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2017/02/ejs_k_means.png"><img class="aligncenter wp-image-325 size-large" src="https://ekojunaidisalam.com/wp-content/uploads/2017/02/ejs_k_means-1024x524.png" alt="K-Means Clustering" width="584" height="299" srcset="https://ekojunaidisalam.com/wp-content/uploads/2017/02/ejs_k_means-1024x524.png 1024w, https://ekojunaidisalam.com/wp-content/uploads/2017/02/ejs_k_means-300x153.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2017/02/ejs_k_means-768x393.png 768w, https://ekojunaidisalam.com/wp-content/uploads/2017/02/ejs_k_means-500x256.png 500w" sizes="(max-width: 584px) 100vw, 584px" /></a>K-Means Clustering
-</h2>
+![k-means-clustering](/wp-content/uploads/2017/02/ejs_k_means.png)
+<h2 style="text-align: center;">K-Means Clustering</h2>
 
 <p style="text-align: justify;">
   K-Means Clustering adalah salah satu algoritma dalam menentukan klasifikasi terhadap objek berdasarkan attribut / fitur dari objek tersebut kedalam <strong>K</strong> kluster/partisi. K adalah angka positif yang menyatakan jumlah grup/kluster/partisi terhadap objek. Pemartisian data dilakukan dengan mencari nilai jarak minimum antara data dan nilai <em><strong>centroid</strong> </em>yang telah di set baik secara random atau pun dengan<em><strong> Initial Set of Centroids, </strong></em>kita juga dapat menentukan nilai centroid berdasarkan <strong>K object</strong> yang berurutan.

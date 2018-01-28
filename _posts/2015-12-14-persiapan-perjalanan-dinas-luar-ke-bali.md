@@ -20,9 +20,8 @@ tags:
   - SIMKARI
   - Statistik
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2015/12/cms.png" rel="attachment wp-att-124"><img class="aligncenter wp-image-124 size-medium" src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/cms-296x300.png" alt="Persiapan" width="296" height="300" srcset="https://ekojunaidisalam.com/wp-content/uploads/2015/12/cms-296x300.png 296w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/cms.png 638w" sizes="(max-width: 296px) 100vw, 296px" /></a>Persiapan Perjalanan Dinas
-</h2>
+<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/cms-296x300.png" alt="Persiapan" /></div>
+<h2 style="text-align: center;">Persiapan Perjalanan Dinas</h2>
 
 <p style="text-align: justify;">
   Hari ini senin 14 Desember 2015, banyak persiapan yang harus saya lakukan tidak hanya perjalanan Dinas Luar dan materi CMS Pilot Project 1 yang menjadi fokus kita nanti, tapi juga persiapan pernikahan saya minggu depan setelahnya..

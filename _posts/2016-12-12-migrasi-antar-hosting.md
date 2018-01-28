@@ -23,9 +23,8 @@ tags:
   - server
   - transfer domain
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/12/migration-servers.png"><img class="aligncenter size-full wp-image-277" src="https://ekojunaidisalam.com/wp-content/uploads/2016/12/migration-servers.png" alt="Migrasi antar Hosting" height="162" width="328" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/12/migration-servers.png 328w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/migration-servers-300x148.png 300w" sizes="(max-width: 328px) 100vw, 328px" /></a>Migrasi antar Hosting
-</h2>
+<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2016/12/migration-servers.png" /></div>
+<h2 style="text-align: center;">Migrasi antar Hosting</h2>
 
 <p style="text-align: justify;">
   Setelah beberapa hari website ini down karena habis masa sewa <em>hosting</em> dan domainnya, sekarang <em>website</em> ini kembali online, setelah penulis melakukan Migrasi antar Hosting yang berbeda. 😀

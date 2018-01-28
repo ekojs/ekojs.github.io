@@ -9,9 +9,7 @@ dsq_thread_id:
   - "4389236904"
 image: /wp-content/uploads/2015/12/cropped-Ekojs-512x288.jpg
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2015/12/cropped-Ekojs.jpg" rel="attachment wp-att-44"><img class="aligncenter wp-image-44 size-thumbnail" src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/cropped-Ekojs-150x150.jpg" alt="Ringkasan" width="150" height="150" srcset="https://ekojunaidisalam.com/wp-content/uploads/2015/12/cropped-Ekojs-150x150.jpg 150w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/cropped-Ekojs-300x300.jpg 300w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/cropped-Ekojs-270x270.jpg 270w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/cropped-Ekojs-192x192.jpg 192w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/cropped-Ekojs-180x180.jpg 180w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/cropped-Ekojs-32x32.jpg 32w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/cropped-Ekojs.jpg 512w" sizes="(max-width: 150px) 100vw, 150px" /></a>Ringkasan Curriculum Vitae
-</h2>
+<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/cropped-Ekojs-150x150.jpg" alt="Ringkasan" /></div>
 
 <p style="text-align: justify;">
   Pada halaman ini, saya sertakan semua ringkasan <strong>Biodata</strong>, <strong>Pendidikan</strong> Formal, <strong>Seminar</strong>, <strong>Pelatihan</strong>, Pengalaman <strong>Organisasi</strong>, <strong>Prestasi</strong>, <strong>Kegiatan</strong> yang dilakukan, <strong>Pengalaman</strong> Kerja serta <strong>Keahlian</strong> yang dimiliki. Berikut dibawah ini adalah ringkasannya :
@@ -170,7 +168,7 @@ image: /wp-content/uploads/2015/12/cropped-Ekojs-512x288.jpg
     </td>
     
     <td>
-      <u><a href="mailto:eko_junaidisalam@live.com">eko_junaidisalam@live.com</a></u>..:: <a href="https://ekojunaidisalam.com/tentang/kontak/" target="_blank" rel="noopener noreferrer">Detil Kontak</a> ::..
+      <u><a href="mailto:eko_junaidisalam@live.com">eko_junaidisalam@live.com</a></u>..:: <a href="https://ekojunaidisalam.com/tentang/kontak.html" target="_blank" rel="noopener noreferrer">Detil Kontak</a> ::..
     </td>
   </tr>
 </table>

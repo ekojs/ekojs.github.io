@@ -10,9 +10,8 @@ dsq_thread_id:
 dsq_needs_sync:
   - "1"
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2015/12/social-media1.jpg"><img class="aligncenter size-medium wp-image-52" src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/social-media1-300x176.jpg" alt="Kontak / Sosial Media" width="300" height="176" srcset="https://ekojunaidisalam.com/wp-content/uploads/2015/12/social-media1-300x176.jpg 300w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/social-media1-1024x602.jpg 1024w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/social-media1-500x294.jpg 500w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/social-media1.jpg 1447w" sizes="(max-width: 300px) 100vw, 300px" /></a>Kontak / Sosial Media
-</h2>
+<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/social-media1-300x176.jpg" alt="Kontak / Sosial Media" /></div>
+<h2 style="text-align: center;">Kontak / Sosial Media</h2>
 
 <p style="text-align: justify;">
   Di saat senggang, saya biasa <em><strong>surfing internet</strong></em>, menulis, membaca, ngoding atau bahkan sekedar melihat kontak / sosial media teman &#8211; teman yang menarik dimanapun saya sedang berada.

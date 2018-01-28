@@ -8,9 +8,8 @@ guid: http://ekojunaidisalam.com/?page_id=36
 dsq_thread_id:
   - "4389319795"
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2015/12/Portofolio1.png" rel="attachment wp-att-75"><img class="aligncenter wp-image-75 size-medium" src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/Portofolio1-300x237.png" alt="Portofolio" height="237" width="300" srcset="https://ekojunaidisalam.com/wp-content/uploads/2015/12/Portofolio1-300x237.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/Portofolio1-768x606.png 768w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/Portofolio1-380x300.png 380w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/Portofolio1.png 779w" sizes="(max-width: 300px) 100vw, 300px" /></a>Portofolio Project / Aplikasi
-</h2>
+<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/Portofolio1-300x237.png" alt="Portofolio" /></div>
+<h2 style="text-align: center;">Portofolio Project / Aplikasi</h2>
 
 <p style="text-align: justify;">
   Halaman ini berisi portofolio tentang beberapa <em>project</em> / aplikasi / modul yang telah maupun sedang saya kerjakan sampai saat ini. Beberapa diantaranya adalah prototype yang masih akan dikembangkan lagi untuk kedepannya, dan ada juga <em><strong>Plugin</strong> </em>yang saya buat telah di <a href="https://codereview.stackexchange.com/questions/86353/database-plugin-for-ckfinder-users" target="_blank"><em><strong>review</strong></em></a> oleh komunitas <em><strong>Code Review</strong></em> di <em><strong>Stackexchange</strong></em>.

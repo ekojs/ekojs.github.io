@@ -10,9 +10,8 @@ dsq_thread_id:
 dsq_needs_sync:
   - "1"
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2015/12/skill.png"><img class="aligncenter size-medium wp-image-56" src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/skill-300x172.png" alt="Keahlian" width="300" height="172" srcset="https://ekojunaidisalam.com/wp-content/uploads/2015/12/skill-300x172.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/skill.png 336w" sizes="(max-width: 300px) 100vw, 300px" /></a>Keahlian Soft Skill / Hard Skill
-</h2>
+<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/skill-300x172.png" alt="Keahlian Soft Skill" /></div>
+<h2 style="text-align: center;">Keahlian Soft Skill / Hard Skill</h2>
 
 <p style="text-align: justify;">
   Sejak masih sekolah maupun saat kuliah saya telah sedikit demi sedikit melatih keahlian <em><strong>Soft Skill</strong></em> maupun <em><strong>Hard Skill</strong></em> saya dalam berorganisasi maupun dalam hal akademik. Saya percaya bahwa dengan mengasah keahlian ini saya dapat berbaur dengan berbagai macam tingkatan masyarakat.

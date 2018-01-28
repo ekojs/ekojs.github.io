@@ -18,9 +18,8 @@ tags:
   - ssl
   - xampp
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/06/digital-certificates.jpg"><img class="aligncenter size-full wp-image-244" src="https://ekojunaidisalam.com/wp-content/uploads/2016/06/digital-certificates.jpg" alt="Membuat Certificate" width="240" height="200" /></a>Membuat Certificate dengan OpenSSL XAMPP
-</h2>
+<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2016/06/digital-certificates.jpg" alt="Membuat Certificate" /></div>
+<h2 style="text-align: center;">Membuat Certificate dengan OpenSSL XAMPP</h2>
 
 <div style="text-align: justify;">
   Hallo teman &#8211; teman pembaca, ketemu kembali dalam artikel Membuat Certificate menggunakan xampp pada windows 7 ini setelah beberapa lama tiada update. 😀
@@ -40,11 +39,9 @@ tags:
   Tool yang kita butuhkan kali ini adalah :
 </div>
 
-  1. xampp tentunya, lokasi saya ada di : <pre style="background-image: url('http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif'); background: #f0f0f0; border: 1px dashed #CCCCCC; color: black; font-family: arial; font-size: 12px; height: auto; line-height: 20px; overflow: auto; padding: 0px; text-align: left; width: 99%;"><code style="color: black; word-wrap: normal;"> C:\xampp\
-</code></pre>
+  1. xampp tentunya, lokasi saya ada di : <code>C:\xampp\</code>
 
-  2. openssl pada <pre style="background-image: url('http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif'); background: #f0f0f0; border: 1px dashed #CCCCCC; color: black; font-family: arial; font-size: 12px; height: auto; line-height: 20px; overflow: auto; padding: 0px; text-align: left; width: 99%;"><code style="color: black; word-wrap: normal;"> C:\xampp\apache\bin
-</code></pre>
+  2. openssl pada <code>C:\xampp\apache\bin</code>
 
   3. Powershell pada windows 7
 
@@ -52,21 +49,21 @@ tags:
   Oke, kita langsung saja tak perlu banyak acara. Lakukan langkah dibawah ini secara berurutan :<a name='more'></a>
 </p>
 
-<pre style="background-image: url('http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif'); background: #f0f0f0; border: 1px dashed #CCCCCC; color: black; font-family: arial; font-size: 12px; height: auto; line-height: 20px; overflow: auto; padding: 0px; text-align: left; width: 99%;"><code style="color: black; word-wrap: normal;"> 1. cd c:\xampp\apache\bin  
- 2. openssl genrsa -des3 -out O:\Titip\ekojs_2048.key 2048  
+```
+1. cd c:\xampp\apache\bin  
+2. openssl genrsa -des3 -out O:\Titip\ekojs_2048.key 2048  
       Masukkan passphrase untuk key anda  
- # Ekstrak private key tanpa passphrase, dan backup file asli  
- 3. cp O:\Titip\ekojs_2048.key O:\Titip\ekojs_2048.key.secure  
- 4. openssl rsa -in O:\Titip\ekojs_2048.key.secure -out O:\Titip\ekojs_2048.key  
- 5. openssl req -new -key O:\Titip\ekojs_2048.key.secure -out O:\Titip\ekojs_2048.csr -config C:\xampp\apache\conf\openssl.cnf  
- 6. openssl x509 -req -days 365 -in O:\Titip\ekojs_2048.csr -signkey O:\Titip\ekojs_2048.key -out O:\Titip\ekojs_2048.crt  
- 7. Certificate anda siap digunakan 😀  
-</code></pre>
+# Ekstrak private key tanpa passphrase, dan backup file asli  
+3. cp O:\Titip\ekojs_2048.key O:\Titip\ekojs_2048.key.secure  
+4. openssl rsa -in O:\Titip\ekojs_2048.key.secure -out O:\Titip\ekojs_2048.key  
+5. openssl req -new -key O:\Titip\ekojs_2048.key.secure -out O:\Titip\ekojs_2048.csr -config C:\xampp\apache\conf\openssl.cnf  
+6. openssl x509 -req -days 365 -in O:\Titip\ekojs_2048.csr -signkey O:\Titip\ekojs_2048.key -out O:\Titip\ekojs_2048.crt  
+7. Certificate anda siap digunakan 😀  
+```
 
 Bila ada pesan:
 
-<pre style="background-image: url('http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif'); background: #f0f0f0; border: 1px dashed #CCCCCC; color: black; font-family: arial; font-size: 12px; height: auto; line-height: 20px; overflow: auto; padding: 0px; text-align: left; width: 99%;"><code style="color: black; word-wrap: normal;"> WARNING: can't open config file: /usr/local/ssl/openssl.cnf  
-</code></pre>
+<code>WARNING: can't open config file: /usr/local/ssl/openssl.cnf</code>
 
 <p style="text-align: justify;">
   temen-temen bisa mengabaikannya selama tidak menghentikan proses generate filenya.

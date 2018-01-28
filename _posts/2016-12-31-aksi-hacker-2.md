@@ -18,9 +18,8 @@ tags:
   - indoxploit
   - wordpress
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/12/Picture1.png"><img class="aligncenter wp-image-316 size-large" src="https://ekojunaidisalam.com/wp-content/uploads/2016/12/Picture1-1024x552.png" alt="Aksi Hacker 2" width="584" height="315" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/12/Picture1-1024x552.png 1024w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/Picture1-300x162.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/Picture1-768x414.png 768w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/Picture1-500x269.png 500w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/Picture1.png 1366w" sizes="(max-width: 584px) 100vw, 584px" /></a>Aksi Hacker 2 Oleh Anang Onani (indoxploit)
-</h2>
+![aksi-hacker-2-indoxploit](/wp-content/uploads/2016/12/Picture1.png)
+<h2 style="text-align: center;">Aksi Hacker 2 Oleh Anang Onani (indoxploit)</h2>
 
 <p style="text-align: justify;">
   Aksi Hacker 2 kali ini saya cukup berterima kasih pada si <strong>Anang Onani (indoxploit)</strong>, paling tidak saya mau ga mau harus sedikit membuang rasa malas untuk bersih2 website dari bekas2 plugin wordpress yang rentan di hack karena bugnya. Malesnya kebanyakan wordpress dihack karena pluginnya.

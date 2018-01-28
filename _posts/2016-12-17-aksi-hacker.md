@@ -19,9 +19,8 @@ tags:
   - shellcode
   - xaishell
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/12/diretas.png"><img class="aligncenter size-large wp-image-293" src="https://ekojunaidisalam.com/wp-content/uploads/2016/12/diretas-1024x359.png" alt="Aksi Hacker" width="584" height="205" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/12/diretas-1024x359.png 1024w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/diretas-300x105.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/diretas-768x269.png 768w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/diretas-500x175.png 500w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/diretas.png 1368w" sizes="(max-width: 584px) 100vw, 584px" /></a>Aksi Hacker
-</h2>
+![aksi-hacker-1](/wp-content/uploads/2016/12/diretas.png)
+<h2 style="text-align: center;">Aksi Hacker</h2>
 
 <p style="text-align: justify;">
   Aksi Hacker kali ini membuat website <a href="https://ekojunaidisalam.com/" target="_blank">ekojunaidisalam.com</a>, sempat down gara-gara seorang hacker dengan alias <strong>Rinto AR</strong> dari <em><strong>XaiSyndicate</strong></em>. Dia menggunakan celah pada wordpress untuk menanam <em>backdoor</em> pada website saya. Dengan bantuan tools <em>shellcode</em> dengan <strong>IP 159.253.145.183</strong> jam server <strong>[15/Dec/2016:12:01:25]</strong> dia mengakses url &#8220;<strong><a href="http://astaga.id/upload/images/coba.php?dir=/home/k7119888/public_html/upload/images/xai_config&do=auto_edit_user" target="_blank">http://astaga.id/upload/images/coba.php?dir=/home/k7119888/public_html/upload/images/xai_config&do=auto_edit_user</a></strong>&#8221; yang mungkin dia gunakan untuk mempersiapkan persenjataan untuk mendeface website saya. Setelah melakukan berbagai macam upaya untuk mengupload plugin khusus yang dia <em>recoded</em> untuk menanam <em>backdoor</em>, yang ternyata setelah sukses pluginnya membuat direktori bernama &#8220;<strong>santet</strong>&#8220;. Dia melakukan pencarian terhadap hasil instalasi plugin yang berisi backdoor tersebut, terlihat ketika saya melakukan tracing terhadap aktivitasnya.

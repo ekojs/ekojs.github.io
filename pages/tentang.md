@@ -4,13 +4,11 @@ title: Tentang Saya
 date: 2015-12-07T15:17:30+00:00
 author: Eko Junaidi Salam
 layout: page
-guid: http://ekojunaidisalam.com/?page_id=11
+guid: https://ekojunaidisalam.com/?page_id=11
 dsq_thread_id:
   - "4387940328"
 ---
-<h2 style="text-align: center;">
-  <a href="http://ekojunaidisalam.com/wp-content/uploads/2015/12/Ekojs.jpg"><img class="aligncenter wp-image-14 size-medium" src="http://ekojunaidisalam.com/wp-content/uploads/2015/12/Ekojs-203x300.jpg" alt="Tentang Saya" width="203" height="300" srcset="https://ekojunaidisalam.com/wp-content/uploads/2015/12/Ekojs-203x300.jpg 203w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/Ekojs.jpg 478w" sizes="(max-width: 203px) 100vw, 203px" /></a>Tentang Saya
-</h2>
+<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/Ekojs-203x300.jpg" alt="Tentang Saya" /></div>
 
 <p style="text-align: justify;">
   <strong>Hai&#8230;! </strong>Nama saya Eko Junaidi Salam, Madura yang dikenal sebagai pulau penghasil garam pada tanggal 04 Juni 1990 tepatnya di kota Pamekasan, alhamdulillah lahirlah saya dengan selamat di kota setempat dari keluarga yang tergolong sederhana, namun penuh kasih sayang. Dan kisah tentang saya dari situlah dimulai.

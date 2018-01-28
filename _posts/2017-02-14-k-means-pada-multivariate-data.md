@@ -22,9 +22,8 @@ tags:
   - K-Means Clustering
   - Multivariate Data
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2017/02/k-means_result.png"><img class="aligncenter size-full wp-image-340" src="https://ekojunaidisalam.com/wp-content/uploads/2017/02/k-means_result.png" alt="Multivariate Data" width="961" height="988" srcset="https://ekojunaidisalam.com/wp-content/uploads/2017/02/k-means_result.png 961w, https://ekojunaidisalam.com/wp-content/uploads/2017/02/k-means_result-292x300.png 292w, https://ekojunaidisalam.com/wp-content/uploads/2017/02/k-means_result-768x790.png 768w" sizes="(max-width: 961px) 100vw, 961px" /></a>Penerapan K-Means Clustering pada Multivariate Data
-</h2>
+![penerapan-k-means-clustering](/wp-content/uploads/2017/02/k-means_result.png)
+<h2 style="text-align: center;">Penerapan K-Means Clustering pada Multivariate Data</h2>
 
 <p style="text-align: justify;">
   Tidak sedikit yang menanyakan tentang penerapan K-Means, beberapa menanyakan apakah K-Means dapat digunakan pada Multivariate Data ? beberapa diantaranya juga menanyakan apakah bisa digunakan pada data dengan attribut yang banyak ? ada juga yang menanyakan apakah bisa untuk melakukan clustering terhadap data non numerik ? dan beberapa pertanyaan lainnya.
@@ -2487,7 +2486,13 @@ Hasil rata &#8211; rata data Aggregate :
 </table>
 
 <p style="text-align: justify;">
-  Setelah data diubah menjadi vector selanjutnya data dapat diolah untuk di cluster menggunakan K-Means Clusterig. Silahkan gunakan aplikasi pada <a href="https://ekojs.github.io/ejs_k-means/" target="_blank">link berikut</a> dengan data <span class="lang:default decode:true crayon-inline ">nxm dimension = 6,2</span>  dan <span class="lang:default decode:true crayon-inline">samples = 0,0.525,0.8,0.35,0.2,0.5,0.525,0,0.525,0.525,0.725,0.025,0.8,0.525,0,0.65,0.6,0.5,0.35,0.525,0.65,0,0.55,0.55,0.2,0.725,0.6,0.55,0,0.7,0.5,0.025,0.5,0.55,0.7,0</span>  sedangkan centroids dikosongkan saja. Silahkan dicoba bila dicluster sebanyak 3 atau 4, dsb. Untuk excel embedded silahkan di full view dengan klik ikon pojok kanan bawah excel tersebut.
+  Setelah data diubah menjadi vector selanjutnya data dapat diolah untuk di cluster menggunakan K-Means Clusterig. Silahkan gunakan aplikasi pada <a href="https://ekojs.github.io/ejs_k-means/" target="_blank">link berikut</a> dengan data 
 </p>
+```
+nxm dimension = 6,2
+samples = 0,0.525,0.8,0.35,0.2,0.5,0.525,0,0.525,0.525,0.725,0.025,0.8,0.525,0,0.65,0.6,0.5,0.35,0.525,0.65,0,0.55,0.55,0.2,0.725,0.6,0.55,0,0.7,0.5,0.025,0.5,0.55,0.7,0
+centroid dikosongkan saja
+```
+<p style="text-align: justify;">Silahkan dicoba bila dicluster sebanyak 3 atau 4, dsb. Untuk excel embedded silahkan di full view dengan klik ikon pojok kanan bawah excel tersebut.</p>
 
 Bila ada pertanyaan atau diskusi seputar K-Means Clustering pada Multivariate Data berikut, silahkan komentar. Terima kasih. 😀

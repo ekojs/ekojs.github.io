@@ -2,7 +2,14 @@
 layout: post
 title: K-Means Clustering Algorithm
 author: Eko Junaidi Salam
-tags: Unsupervised Learning, Clustering
+tags:
+  - Data Mining
+  - Data Science
+  - Euclidean Distance
+  - K-Means Algorithm
+  - K-Means Clustering
+  - Clustering
+  - Unsupervised Learning
 ---
 
 **Contoh Input Data :**

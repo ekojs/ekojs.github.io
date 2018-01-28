@@ -17,9 +17,8 @@ tags:
   - ransomware
   - virus
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/09/cerber3-2.png"><img class="aligncenter wp-image-280 size-full" src="https://ekojunaidisalam.com/wp-content/uploads/2016/09/cerber3-2.png" alt="Cerber Ransomware" width="774" height="337" /></a>Cerber Ransomware
-</h2>
+![cerber-ransomware](/wp-content/uploads/2016/09/cerber3-2.png)
+<h2 style="text-align: center;">Cerber Ransomware</h2>
 
 <p style="text-align: justify;">
   Beberapa hari yang lalu, saya menghadapi serangan virus jenis baru tapi masih varian yang sama dari <em>Cerber Ransomware</em>. Sudah dua komputer yang saya tangani sendiri, yang pertama terinfeksi oleh cerber v1 dan yang kedua cerber v3.

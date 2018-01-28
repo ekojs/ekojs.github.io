@@ -16,9 +16,8 @@ tags:
   - prakom
   - Pranata Komputer
 ---
-<h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/07/prakom.jpg"><img class="aligncenter wp-image-267 size-full" src="https://ekojunaidisalam.com/wp-content/uploads/2016/07/prakom.jpg" alt="iPrakom" width="851" height="315" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/07/prakom.jpg 851w, https://ekojunaidisalam.com/wp-content/uploads/2016/07/prakom-300x111.jpg 300w, https://ekojunaidisalam.com/wp-content/uploads/2016/07/prakom-768x284.jpg 768w, https://ekojunaidisalam.com/wp-content/uploads/2016/07/prakom-500x185.jpg 500w" sizes="(max-width: 851px) 100vw, 851px" /></a>iPrakom Indonesia Meet Up
-</h2>
+![iprakom-meetup](/wp-content/uploads/2016/07/prakom.jpg)
+<h2 style="text-align: center;">iPrakom Indonesia Meet Up</h2>
 
 <p style="text-align: justify;">
   Apa itu iPrakom Indonesia ?

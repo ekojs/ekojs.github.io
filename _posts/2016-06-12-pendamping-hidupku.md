@@ -13,11 +13,8 @@ categories:
 tags:
   - Pendampingku
 ---
-[<img class="aligncenter wp-image-236 size-full" src="http://ekojunaidisalam.com/wp-content/uploads/2016/04/karikatur.jpg" alt="Pendamping Hidupku" width="375" height="500" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/04/karikatur.jpg 375w, https://ekojunaidisalam.com/wp-content/uploads/2016/04/karikatur-225x300.jpg 225w" sizes="(max-width: 375px) 100vw, 375px" />](http://ekojunaidisalam.com/wp-content/uploads/2016/04/karikatur.jpg)
-
-<h2 style="text-align: center;">
-  Pendamping Hidupku
-</h2>
+![pendamping-hidupku](/wp-content/uploads/2016/04/karikatur.jpg)
+<h2 style="text-align: center;">Pendamping Hidupku</h2>
 
 <p style="text-align: justify;">
   Istriku Sayang&#8230;<br /> Kini engkau adalah pendamping hidupku&#8230;<br /> Suatu anugrah terindah dari Rabbku&#8230;<br /> Suatu kehormatan menerima titipan, amanah dari Rabbku&#8230;
