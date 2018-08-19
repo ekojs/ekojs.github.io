@@ -233,5 +233,5 @@ CI & ExtJS4.2
   Bila ada pertanyaan, kebingungan coding di <a href="https://github.com/ekojs/ci_extjs" target="_blank">github</a>, keluhan, kritik, atau pun saran yang membangun silahkan komentar disini atau di github.
 </p>
 <p style="text-align: justify;">
-  Untuk mencoba menjalankan aplikasi di github, jangan lupa untuk membaca [README](https://github.com/ekojs/ci_extjs/blob/master/README.md) agar tidak kebingungan atau bahkan error. ^^
+  Untuk mencoba menjalankan aplikasi di github, jangan lupa untuk membaca <a href="https://github.com/ekojs/ci_extjs/blob/master/README.md" target="_blank">README</a> agar tidak kebingungan atau bahkan error. ^^
 </p>
