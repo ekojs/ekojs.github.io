@@ -28,12 +28,12 @@ tags:
   - web desktop
 ---
 <div style="text-align: center;">
-  <img src="https://ekojunaidisalam.com/wp-content/uploads/2016/04/Generator-CI_ExtJS.png" alt="Integrasi CI dan ExtJS4.2" />
+  <img src="{{site.baseurl}}/wp-content/uploads/2016/04/Generator-CI_ExtJS.png" alt="Integrasi CI dan ExtJS4.2" />
 </div>
 <h2 style="text-align: center;">Integrasi CI dan ExtJS4.2</h2>
 
 <p style="text-align: justify;">
-  Artikel sebelumnya telah membahas tentang <a href="https://ekojunaidisalam.com/2016/03/04/integrate-extjs4-2-with-nodejs/" target="_blank">Integrasi ExtJS & NodeJS</a> kali ini saya akan membahas Integrasi CI dan ExtJS4.2. <em><strong>CodeIgniter (CI)</strong></em> adalah <em>framework</em> yang menggunakan model MVC dimana bahasa pemrograman yang digunakan adalah bahasa PHP, Sedangkan <em><strong>ExtJS</strong></em> adalah <em>Framework</em> yang menggunakan model MVC juga namun bahasa yang digunakan adalah Javascript. Dengan memanfaatkan model MVC tersebut itulah integrasi ini dilakukan, bila ExtJS menangani user di bagian <em><strong>FrontEnd</strong></em> maka nantinya CI lah yang akan menangani bagian <em><strong>BackEnd</strong></em> nya.
+  Artikel sebelumnya telah membahas tentang <a href="{{site.baseurl}}/2016/03/04/integrate-extjs4-2-with-nodejs/" target="_blank">Integrasi ExtJS & NodeJS</a> kali ini saya akan membahas Integrasi CI dan ExtJS4.2. <em><strong>CodeIgniter (CI)</strong></em> adalah <em>framework</em> yang menggunakan model MVC dimana bahasa pemrograman yang digunakan adalah bahasa PHP, Sedangkan <em><strong>ExtJS</strong></em> adalah <em>Framework</em> yang menggunakan model MVC juga namun bahasa yang digunakan adalah Javascript. Dengan memanfaatkan model MVC tersebut itulah integrasi ini dilakukan, bila ExtJS menangani user di bagian <em><strong>FrontEnd</strong></em> maka nantinya CI lah yang akan menangani bagian <em><strong>BackEnd</strong></em> nya.
 </p>
 
 <p style="text-align: justify;">
@@ -169,7 +169,7 @@ CI & ExtJS4.2
 </p>
 
 <p style="text-align: justify;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/04/Hasil.png" rel="attachment wp-att-221"><img class="aligncenter wp-image-221 size-full" src="https://ekojunaidisalam.com/wp-content/uploads/2016/04/Hasil.png" alt="Hasil Generator CI & ExtJS" width="1535" height="876" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/04/Hasil.png 1535w, https://ekojunaidisalam.com/wp-content/uploads/2016/04/Hasil-300x171.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2016/04/Hasil-768x438.png 768w, https://ekojunaidisalam.com/wp-content/uploads/2016/04/Hasil-1024x584.png 1024w, https://ekojunaidisalam.com/wp-content/uploads/2016/04/Hasil-500x285.png 500w" sizes="(max-width: 1535px) 100vw, 1535px" /></a>Contoh Konfigurasi file view pada <span class="lang:default decode:true crayon-inline "><a href="https://github.com/ekojs/ci_extjs/blob/master/application/views/welcome.php" target="_blank">C:\xampp\htdocs\ci_extjs\application\views\welcome.php</a></span>
+  <a href="{{site.baseurl}}/wp-content/uploads/2016/04/Hasil.png" rel="attachment wp-att-221"><img class="aligncenter wp-image-221 size-full" src="{{site.baseurl}}/wp-content/uploads/2016/04/Hasil.png" alt="Hasil Generator CI & ExtJS" width="1535" height="876" srcset="{{site.baseurl}}/wp-content/uploads/2016/04/Hasil.png 1535w, {{site.baseurl}}/wp-content/uploads/2016/04/Hasil-300x171.png 300w, {{site.baseurl}}/wp-content/uploads/2016/04/Hasil-768x438.png 768w, {{site.baseurl}}/wp-content/uploads/2016/04/Hasil-1024x584.png 1024w, {{site.baseurl}}/wp-content/uploads/2016/04/Hasil-500x285.png 500w" sizes="(max-width: 1535px) 100vw, 1535px" /></a>Contoh Konfigurasi file view pada <span class="lang:default decode:true crayon-inline "><a href="https://github.com/ekojs/ci_extjs/blob/master/application/views/welcome.php" target="_blank">C:\xampp\htdocs\ci_extjs\application\views\welcome.php</a></span>
 </p>
 
 <pre class="lang:default decode:true " title="Contoh integrasi CI & ExtJS pada view">&lt;!DOCTYPE html&gt;

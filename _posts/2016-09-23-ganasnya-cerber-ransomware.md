@@ -71,5 +71,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Download <a href="https://ekojunaidisalam.com/wp-content/uploads/others/ejs_write_protection.zip" target="_blank" rel="noopener noreferrer">EJS_Write_Protect</a><br /> Download <a href="https://ekojunaidisalam.com/wp-content/uploads/others/ejs_renamer.zip" target="_blank" rel="noopener noreferrer">EJS_Renamer</a><br /> Sumber Gambar : http://guides.uufix.com/wp-content/uploads/2016/09/cerber3-2.png
+  Download <a href="{{site.baseurl}}/wp-content/uploads/others/ejs_write_protection.zip" target="_blank" rel="noopener noreferrer">EJS_Write_Protect</a><br /> Download <a href="{{site.baseurl}}/wp-content/uploads/others/ejs_renamer.zip" target="_blank" rel="noopener noreferrer">EJS_Renamer</a><br /> Sumber Gambar : http://guides.uufix.com/wp-content/uploads/2016/09/cerber3-2.png
 </p>

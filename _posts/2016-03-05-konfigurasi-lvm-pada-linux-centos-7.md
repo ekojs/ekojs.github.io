@@ -24,7 +24,7 @@ tags:
   - rsync
 ---
 <h2 style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/03/LVM.png" rel="attachment wp-att-171"><img class="aligncenter wp-image-171 size-large" src="https://ekojunaidisalam.com/wp-content/uploads/2016/03/LVM-1024x944.png" alt="Konfigurasi LVM" width="584" height="538" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/03/LVM-1024x944.png 1024w, https://ekojunaidisalam.com/wp-content/uploads/2016/03/LVM-300x277.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2016/03/LVM-768x708.png 768w, https://ekojunaidisalam.com/wp-content/uploads/2016/03/LVM-325x300.png 325w, https://ekojunaidisalam.com/wp-content/uploads/2016/03/LVM.png 1165w" sizes="(max-width: 584px) 100vw, 584px" /></a>Konfigurasi LVM pada Linux (Centos 7)
+  <a href="{{site.baseurl}}/wp-content/uploads/2016/03/LVM.png" rel="attachment wp-att-171"><img class="aligncenter wp-image-171 size-large" src="{{site.baseurl}}/wp-content/uploads/2016/03/LVM-1024x944.png" alt="Konfigurasi LVM" width="584" height="538" srcset="{{site.baseurl}}/wp-content/uploads/2016/03/LVM-1024x944.png 1024w, {{site.baseurl}}/wp-content/uploads/2016/03/LVM-300x277.png 300w, {{site.baseurl}}/wp-content/uploads/2016/03/LVM-768x708.png 768w, {{site.baseurl}}/wp-content/uploads/2016/03/LVM-325x300.png 325w, {{site.baseurl}}/wp-content/uploads/2016/03/LVM.png 1165w" sizes="(max-width: 584px) 100vw, 584px" /></a>Konfigurasi LVM pada Linux (Centos 7)
 </h2>
 
 <p style="text-align: justify;">
@@ -65,7 +65,7 @@ tags:
 </li>
 
 <p style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/03/Desain-awal-sistem.png" rel="attachment wp-att-175"><img class="aligncenter wp-image-175 size-full" src="https://ekojunaidisalam.com/wp-content/uploads/2016/03/Desain-awal-sistem.png" alt="Desain awal sistem" width="675" height="424" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/03/Desain-awal-sistem.png 675w, https://ekojunaidisalam.com/wp-content/uploads/2016/03/Desain-awal-sistem-300x188.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2016/03/Desain-awal-sistem-478x300.png 478w" sizes="(max-width: 675px) 100vw, 675px" /></a>Tampilan disk awal pada Instalasi Centos 7 Minimal
+  <a href="{{site.baseurl}}/wp-content/uploads/2016/03/Desain-awal-sistem.png" rel="attachment wp-att-175"><img class="aligncenter wp-image-175 size-full" src="{{site.baseurl}}/wp-content/uploads/2016/03/Desain-awal-sistem.png" alt="Desain awal sistem" width="675" height="424" srcset="{{site.baseurl}}/wp-content/uploads/2016/03/Desain-awal-sistem.png 675w, {{site.baseurl}}/wp-content/uploads/2016/03/Desain-awal-sistem-300x188.png 300w, {{site.baseurl}}/wp-content/uploads/2016/03/Desain-awal-sistem-478x300.png 478w" sizes="(max-width: 675px) 100vw, 675px" /></a>Tampilan disk awal pada Instalasi Centos 7 Minimal
 </p>
 
 <p style="text-align: justify;">
@@ -77,7 +77,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/03/partisi-awal.png" rel="attachment wp-att-182"><img class="aligncenter wp-image-182 size-full" src="https://ekojunaidisalam.com/wp-content/uploads/2016/03/partisi-awal.png" alt="/home penuh" width="675" height="424" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/03/partisi-awal.png 675w, https://ekojunaidisalam.com/wp-content/uploads/2016/03/partisi-awal-300x188.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2016/03/partisi-awal-478x300.png 478w" sizes="(max-width: 675px) 100vw, 675px" /></a>
+  <a href="{{site.baseurl}}/wp-content/uploads/2016/03/partisi-awal.png" rel="attachment wp-att-182"><img class="aligncenter wp-image-182 size-full" src="{{site.baseurl}}/wp-content/uploads/2016/03/partisi-awal.png" alt="/home penuh" width="675" height="424" srcset="{{site.baseurl}}/wp-content/uploads/2016/03/partisi-awal.png 675w, {{site.baseurl}}/wp-content/uploads/2016/03/partisi-awal-300x188.png 300w, {{site.baseurl}}/wp-content/uploads/2016/03/partisi-awal-478x300.png 478w" sizes="(max-width: 675px) 100vw, 675px" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -89,7 +89,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/03/lvextend.png" rel="attachment wp-att-183"><img class="aligncenter size-full wp-image-183" src="https://ekojunaidisalam.com/wp-content/uploads/2016/03/lvextend.png" alt="lvextend" width="675" height="424" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/03/lvextend.png 675w, https://ekojunaidisalam.com/wp-content/uploads/2016/03/lvextend-300x188.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2016/03/lvextend-478x300.png 478w" sizes="(max-width: 675px) 100vw, 675px" /></a>
+  <a href="{{site.baseurl}}/wp-content/uploads/2016/03/lvextend.png" rel="attachment wp-att-183"><img class="aligncenter size-full wp-image-183" src="{{site.baseurl}}/wp-content/uploads/2016/03/lvextend.png" alt="lvextend" width="675" height="424" srcset="{{site.baseurl}}/wp-content/uploads/2016/03/lvextend.png 675w, {{site.baseurl}}/wp-content/uploads/2016/03/lvextend-300x188.png 300w, {{site.baseurl}}/wp-content/uploads/2016/03/lvextend-478x300.png 478w" sizes="(max-width: 675px) 100vw, 675px" /></a>
 </p>
 
 <p style="text-align: justify;">

@@ -270,7 +270,7 @@ Setelah mengetahui tipe datanya, mari kita langsung ke pokok diskusi. Berikut di
 </li>
 
 <p style="text-align: justify;">
-  Karena attribut (Kampus, Tingkat Kesulitan, dan Kepuasan) adalah data non numerik. Maka kita perlu membuat dummy variabel berdasarkan rumus : <a href="https://ekojunaidisalam.com/wp-content/uploads/2017/02/nominal_var.gif"><img class="aligncenter size-full wp-image-346" src="https://ekojunaidisalam.com/wp-content/uploads/2017/02/nominal_var.gif" alt="" width="84" height="48" /></a>dimana <a href="https://ekojunaidisalam.com/wp-content/uploads/2017/02/nominal_var1.gif"><img class="aligncenter size-full wp-image-347" src="https://ekojunaidisalam.com/wp-content/uploads/2017/02/nominal_var1.gif" alt="" width="23" height="27" /></a>adalah<em><strong> Ceiling Symbol</strong></em>, dimana hasilnya selalu dinaikkan ke nilai integer selanjutnya. Contoh : <span class="lang:default decode:true crayon-inline ">dv = 2.3</span>  , maka ceil <span class="lang:default decode:true crayon-inline ">dv = 3</span> , bila <span class="lang:default decode:true crayon-inline ">dv = 4.3</span> , maka ceil <span class="lang:default decode:true crayon-inline ">dv = 5</span> , dst. Sedangkan variabel <em><strong>c</strong></em> adalah adalah jumlah kategori dalam data. Contoh : Kampus (ITB, ITS, UGM, UI) ada 4 kategori maka <span class="lang:default decode:true crayon-inline ">c = 4</span> , dst.
+  Karena attribut (Kampus, Tingkat Kesulitan, dan Kepuasan) adalah data non numerik. Maka kita perlu membuat dummy variabel berdasarkan rumus : <a href="{{site.baseurl}}/wp-content/uploads/2017/02/nominal_var.gif"><img class="aligncenter size-full wp-image-346" src="{{site.baseurl}}/wp-content/uploads/2017/02/nominal_var.gif" alt="" width="84" height="48" /></a>dimana <a href="{{site.baseurl}}/wp-content/uploads/2017/02/nominal_var1.gif"><img class="aligncenter size-full wp-image-347" src="{{site.baseurl}}/wp-content/uploads/2017/02/nominal_var1.gif" alt="" width="23" height="27" /></a>adalah<em><strong> Ceiling Symbol</strong></em>, dimana hasilnya selalu dinaikkan ke nilai integer selanjutnya. Contoh : <span class="lang:default decode:true crayon-inline ">dv = 2.3</span>  , maka ceil <span class="lang:default decode:true crayon-inline ">dv = 3</span> , bila <span class="lang:default decode:true crayon-inline ">dv = 4.3</span> , maka ceil <span class="lang:default decode:true crayon-inline ">dv = 5</span> , dst. Sedangkan variabel <em><strong>c</strong></em> adalah adalah jumlah kategori dalam data. Contoh : Kampus (ITB, ITS, UGM, UI) ada 4 kategori maka <span class="lang:default decode:true crayon-inline ">c = 4</span> , dst.
 </p>
 
 <table style="border-collapse: collapse; width: 577px; height: 660px;" border="0" width="320" cellspacing="0" cellpadding="0">
@@ -933,7 +933,7 @@ Setelah data dibuat menjadi vector, maka selanjutnya menormalisasikan data terse
 </table>
 
 <p style="text-align: justify;">
-  Selanjutnya kita akan menghitung <em>Distance Matrix</em> pada setiap attribut data. Karena attribute (IPK dan Semester) adalah numerik, maka penulis akan menggunakan <strong>Manhattan Distance</strong>.<a href="https://ekojunaidisalam.com/wp-content/uploads/2017/02/Manhattan_distance.png"><img class="aligncenter size-full wp-image-350" src="https://ekojunaidisalam.com/wp-content/uploads/2017/02/Manhattan_distance.png" alt="" width="148" height="78" /></a>
+  Selanjutnya kita akan menghitung <em>Distance Matrix</em> pada setiap attribut data. Karena attribute (IPK dan Semester) adalah numerik, maka penulis akan menggunakan <strong>Manhattan Distance</strong>.<a href="{{site.baseurl}}/wp-content/uploads/2017/02/Manhattan_distance.png"><img class="aligncenter size-full wp-image-350" src="{{site.baseurl}}/wp-content/uploads/2017/02/Manhattan_distance.png" alt="" width="148" height="78" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -1596,7 +1596,7 @@ Selanjutnya kita hitung Distance Matrix dari Attribute (Kampus, Tingkat Kesulita
   </tr>
 </table>
 
-Bagaimana formula dari Hamming Distance ? formulanya sebagai berikut :[<img class="aligncenter size-full wp-image-349" src="https://ekojunaidisalam.com/wp-content/uploads/2017/02/Hamming_distance.png" alt="" width="149" height="86" />](https://ekojunaidisalam.com/wp-content/uploads/2017/02/Hamming_distance.png)Setiap xor data yang bukan 0, atau setiap data <span class="lang:default decode:true crayon-inline ">x(i,j) ≠ x(j,k)</span>  maka jumlahkan nilainya. Contoh hasil dari attribut Kampus sebagai berikut :
+Bagaimana formula dari Hamming Distance ? formulanya sebagai berikut :[<img class="aligncenter size-full wp-image-349" src="{{site.baseurl}}/wp-content/uploads/2017/02/Hamming_distance.png" alt="" width="149" height="86" />]({{site.baseurl}}/wp-content/uploads/2017/02/Hamming_distance.png)Setiap xor data yang bukan 0, atau setiap data <span class="lang:default decode:true crayon-inline ">x(i,j) ≠ x(j,k)</span>  maka jumlahkan nilainya. Contoh hasil dari attribut Kampus sebagai berikut :
 
 <table style="border-collapse: collapse; width: 359px; height: 663px;" border="0" width="192" cellspacing="0" cellpadding="0">
   <colgroup> <col style="width: 48pt;" span="3" width="64" /> </colgroup> <tr style="height: 15.0pt;">
@@ -1787,7 +1787,7 @@ Bagaimana formula dari Hamming Distance ? formulanya sebagai berikut :[<img clas
   Begitu juga untuk attribut Tingkat Kesulitan dan Kepuasan. Perhatikan kembali Excel diatas pada tab <strong>Vector</strong>. Silahkan scroll pada excel digeser ke kanan untuk melihat Normalisasi pada setiap attribut. Silahkan di pahami terlebih dahulu excel tersebut kemudian kita lanjut ke step berikutnya.
 </p>
 
-Setelah kita hitung Distance Matrix nya, kita buat normalisasi datanya, dengan formula sebagai berikut : [<img class="aligncenter size-full wp-image-352" src="https://ekojunaidisalam.com/wp-content/uploads/2017/02/norm.png" alt="" width="149" height="63" />](https://ekojunaidisalam.com/wp-content/uploads/2017/02/norm.png)
+Setelah kita hitung Distance Matrix nya, kita buat normalisasi datanya, dengan formula sebagai berikut : [<img class="aligncenter size-full wp-image-352" src="{{site.baseurl}}/wp-content/uploads/2017/02/norm.png" alt="" width="149" height="63" />]({{site.baseurl}}/wp-content/uploads/2017/02/norm.png)
 
   * (A, A) = (0 &#8211; 0) / (0.8 &#8211; 0) = 0
   * (A, B) = (0.5 &#8211; 0) / (0.8 &#8211; 0) = 0.625

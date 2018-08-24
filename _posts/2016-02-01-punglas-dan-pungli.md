@@ -18,7 +18,7 @@ tags:
   - korupsi
   - pungli
 ---
-<div style="text-align:center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2016/02/secretpayment-300x162.jpg" alt="Punglas dan Pungli" /></div>
+<div style="text-align:center;"><img src="{{site.baseurl}}/wp-content/uploads/2016/02/secretpayment-300x162.jpg" alt="Punglas dan Pungli" /></div>
 <h2 style="text-align: center;">Punglas yang melibatkan (Uang Pecahan) yang (harus) dibayarkan secara (Suka Rela)</h2>
 
 <p style="text-align: justify;">

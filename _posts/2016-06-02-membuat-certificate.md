@@ -18,7 +18,7 @@ tags:
   - ssl
   - xampp
 ---
-<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2016/06/digital-certificates.jpg" alt="Membuat Certificate" /></div>
+<div style="text-align: center;"><img src="{{site.baseurl}}/wp-content/uploads/2016/06/digital-certificates.jpg" alt="Membuat Certificate" /></div>
 <h2 style="text-align: center;">Membuat Certificate dengan OpenSSL XAMPP</h2>
 
 <div style="text-align: justify;">

@@ -30,7 +30,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Sebenarnya, <a href="https://ekojunaidisalam.com/2016/12/17/aksi-hacker/" target="_blank">aksi hacking 1</a> dan aksi hacking 2 ini tidak langsung serta merta masuk kedalam website saya. Namun mereka menggunakan celah pada website tetangga saya, untuk bisa penetrasi ke website saya. Dan tentunya menggunakan tools seperti biasa yang dapat di backtrace, meski dia coba hilangkan jejak dari tools tersebut.<a name='more'></a>
+  Sebenarnya, <a href="{{site.baseurl}}/2016/12/17/aksi-hacker/" target="_blank">aksi hacking 1</a> dan aksi hacking 2 ini tidak langsung serta merta masuk kedalam website saya. Namun mereka menggunakan celah pada website tetangga saya, untuk bisa penetrasi ke website saya. Dan tentunya menggunakan tools seperti biasa yang dapat di backtrace, meski dia coba hilangkan jejak dari tools tersebut.<a name='more'></a>
 </p>
 
 <p style="text-align: justify;">

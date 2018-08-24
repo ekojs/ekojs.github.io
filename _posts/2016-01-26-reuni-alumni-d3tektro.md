@@ -17,7 +17,7 @@ tags:
   - Happy Bersama
   - Reuni
 ---
-<div style="text-align:center"><img src="https://ekojunaidisalam.com/wp-content/uploads/2016/01/D3tektro.jpg" alt="Reuni Alumni D3Tektro" /></div>
+<div style="text-align:center"><img src="{{site.baseurl}}/wp-content/uploads/2016/01/D3tektro.jpg" alt="Reuni Alumni D3Tektro" /></div>
 <h2 style="text-align: center;">Reuni Alumni D3tektro</h2>
 
 <p style="text-align: justify;">

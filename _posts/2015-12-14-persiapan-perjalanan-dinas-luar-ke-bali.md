@@ -20,7 +20,7 @@ tags:
   - SIMKARI
   - Statistik
 ---
-<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/cms-296x300.png" alt="Persiapan" /></div>
+<div style="text-align: center;"><img src="{{site.baseurl}}/wp-content/uploads/2015/12/cms-296x300.png" alt="Persiapan" /></div>
 <h2 style="text-align: center;">Persiapan Perjalanan Dinas</h2>
 
 <p style="text-align: justify;">

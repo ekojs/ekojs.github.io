@@ -19,7 +19,7 @@ tags:
   - ojek
   - Transportasi Online
 ---
-<div style="text-align:center"><img src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/gojek-300x171.jpg" alt="Pro" /></div>
+<div style="text-align:center"><img src="{{site.baseurl}}/wp-content/uploads/2015/12/gojek-300x171.jpg" alt="Pro" /></div>
 <h2 style="text-align: center;">Pro - Kontra Transportasi Berbasis Online</h2>
 
 <p style="text-align: justify;">

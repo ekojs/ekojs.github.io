@@ -23,7 +23,7 @@ tags:
   - server
   - transfer domain
 ---
-<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2016/12/migration-servers.png" /></div>
+<div style="text-align: center;"><img src="{{site.baseurl}}/wp-content/uploads/2016/12/migration-servers.png" /></div>
 <h2 style="text-align: center;">Migrasi antar Hosting</h2>
 
 <p style="text-align: justify;">
@@ -47,7 +47,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/12/isi-backup.png"><img class="aligncenter size-large wp-image-281" src="https://ekojunaidisalam.com/wp-content/uploads/2016/12/isi-backup-1024x325.png" alt="Hasil Backup" height="185" width="584" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/12/isi-backup-1024x325.png 1024w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/isi-backup-300x95.png 300w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/isi-backup-768x244.png 768w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/isi-backup-500x159.png 500w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/isi-backup.png 1450w" sizes="(max-width: 584px) 100vw, 584px" /></a>Hasil <em>extract</em> file <strong>backup-8.17.2016_19-38-16_username.tar.gz</strong><a name='more'></a>
+  <a href="{{site.baseurl}}/wp-content/uploads/2016/12/isi-backup.png"><img class="aligncenter size-large wp-image-281" src="{{site.baseurl}}/wp-content/uploads/2016/12/isi-backup-1024x325.png" alt="Hasil Backup" height="185" width="584" srcset="{{site.baseurl}}/wp-content/uploads/2016/12/isi-backup-1024x325.png 1024w, {{site.baseurl}}/wp-content/uploads/2016/12/isi-backup-300x95.png 300w, {{site.baseurl}}/wp-content/uploads/2016/12/isi-backup-768x244.png 768w, {{site.baseurl}}/wp-content/uploads/2016/12/isi-backup-500x159.png 500w, {{site.baseurl}}/wp-content/uploads/2016/12/isi-backup.png 1450w" sizes="(max-width: 584px) 100vw, 584px" /></a>Hasil <em>extract</em> file <strong>backup-8.17.2016_19-38-16_username.tar.gz</strong><a name='more'></a>
 </p>
 
 <p style="text-align: justify;">
@@ -78,7 +78,7 @@ tags:
       <strong>IP Address</strong> pada hosting (<em>Shared IP Address</em>).
     </li>
     <li style="text-align: justify;">
-      <strong>DKIM</strong>, <em>ssh key</em>, <em>gpg key</em>, dan otentikasi lainnya.<br /> <em>Reconfigure</em> ini dilakukan dengan <strong>menyesuaikan</strong> (<em>replace</em>) pengaturan hosting baru dengan hosting lama.<br /> <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/12/contoh.png"><img class="aligncenter size-full wp-image-279" src="https://ekojunaidisalam.com/wp-content/uploads/2016/12/contoh.png" alt="Modul cpanel" height="740" width="466" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/12/contoh.png 466w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/contoh-189x300.png 189w" sizes="(max-width: 466px) 100vw, 466px" /></a>
+      <strong>DKIM</strong>, <em>ssh key</em>, <em>gpg key</em>, dan otentikasi lainnya.<br /> <em>Reconfigure</em> ini dilakukan dengan <strong>menyesuaikan</strong> (<em>replace</em>) pengaturan hosting baru dengan hosting lama.<br /> <a href="{{site.baseurl}}/wp-content/uploads/2016/12/contoh.png"><img class="aligncenter size-full wp-image-279" src="{{site.baseurl}}/wp-content/uploads/2016/12/contoh.png" alt="Modul cpanel" height="740" width="466" srcset="{{site.baseurl}}/wp-content/uploads/2016/12/contoh.png 466w, {{site.baseurl}}/wp-content/uploads/2016/12/contoh-189x300.png 189w" sizes="(max-width: 466px) 100vw, 466px" /></a>
     </li>
   </ol>
 </li>
@@ -95,7 +95,7 @@ tags:
       Modul <strong><em>emails</em></strong>, setting <em>mx entry</em>, <em>encryption</em>, import <em>authentication</em>, dkim, spf dan alamat email.
     </li>
     <li style="text-align: justify;">
-      Modul <strong><em>security</em></strong>, setting <em>ssl/tls</em>,<em> ip blocker</em>, dan <em>hotlink protector</em>.<br /> <a href="https://ekojunaidisalam.com/wp-content/uploads/2016/12/contoh-1.png"><img class="aligncenter size-full wp-image-280" src="https://ekojunaidisalam.com/wp-content/uploads/2016/12/contoh-1.png" alt="Modul Security Cpanel" height="118" width="478" srcset="https://ekojunaidisalam.com/wp-content/uploads/2016/12/contoh-1.png 478w, https://ekojunaidisalam.com/wp-content/uploads/2016/12/contoh-1-300x74.png 300w" sizes="(max-width: 478px) 100vw, 478px" /></a>
+      Modul <strong><em>security</em></strong>, setting <em>ssl/tls</em>,<em> ip blocker</em>, dan <em>hotlink protector</em>.<br /> <a href="{{site.baseurl}}/wp-content/uploads/2016/12/contoh-1.png"><img class="aligncenter size-full wp-image-280" src="{{site.baseurl}}/wp-content/uploads/2016/12/contoh-1.png" alt="Modul Security Cpanel" height="118" width="478" srcset="{{site.baseurl}}/wp-content/uploads/2016/12/contoh-1.png 478w, {{site.baseurl}}/wp-content/uploads/2016/12/contoh-1-300x74.png 300w" sizes="(max-width: 478px) 100vw, 478px" /></a>
     </li>
   </ol>
 </li>
