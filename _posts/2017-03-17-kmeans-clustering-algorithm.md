@@ -1,7 +1,13 @@
 ---
 layout: post
-title: K-Means Clustering Algorithm
+title: Demo K-Means Clustering Algorithm
 author: Eko Junaidi Salam
+categories:
+  - Algorithm
+  - Artikel
+  - Data Science
+  - Teknologi
+  - Demo Program
 tags:
   - Data Mining
   - Data Science

@@ -41,7 +41,7 @@ For complete Example Web-Desktop Source Code from sencha please fork/download in
 
 npm init
   
-`PS C:\xampp\htdocs\web-desktop> cat .\package.json<br />
+<code>PS C:\xampp\htdocs\web-desktop> cat .\package.json<br />
 {<br />
 "name": "web-desktop",<br />
 "version": "1.0.0",<br />
@@ -62,11 +62,12 @@ npm init
 ],<br />
 "author": "ekojs",<br />
 "license": "ISC"<br />
-}`
+}
+</code>
 
 npm install
   
-`PS C:\xampp\htdocs\web-desktop> npm install express --save<br />
+<code>PS C:\xampp\htdocs\web-desktop> npm install express --save<br />
 express@4.13.4 node_modules\express<br />
 ├── escape-html@1.0.3<br />
 ├── array-flatten@1.1.1<br />
@@ -96,11 +97,12 @@ express@4.13.4 node_modules\express<br />
 PS C:\xampp\htdocs\web-desktop> npm ls --depth=0<br />
 C:\xampp\htdocs\web-desktop<br />
 └── express@4.13.4<br />
-PS C:\xampp\htdocs\web-desktop>`
+PS C:\xampp\htdocs\web-desktop>
+</code>
 
 sencha generate app
   
-`PS C:\xampp\htdocs\web-desktop> sencha -sdk ..\extjs-4.2\ generate app EJS .<br />
+<code>PS C:\xampp\htdocs\web-desktop> sencha -sdk ..\extjs-4.2\ generate app EJS .<br />
 Sencha Cmd v4.0.5.87<br />
 [INF]<br />
 [INF] init-plugin:<br />
@@ -252,11 +254,12 @@ Sencha Cmd v4.0.5.87<br />
 [INF]<br />
 [INF] -after-generate-app:<br />
 [INF] [x-property-file] Updating property file: C:\xampp\htdocs\web-desktop\.sencha\app\sencha.cfg<br />
-PS C:\xampp\htdocs\web-desktop>`
+PS C:\xampp\htdocs\web-desktop>
+</code>
 
 File index.js for nodejs
   
-`var express = require("express");<br />
+<code>var express = require("express");<br />
 var fs = require("fs");<br />
 var app = express();<br />
 app.use('/resources',express.static('resources'));<br />
@@ -275,4 +278,5 @@ var server = app.listen(8088,function(){<br />
 var host = server.address().address;<br />
 var port = server.address().port;<br />
 console.log("App Listening at http://%s:%s Created by Eko Junaidi Salam",host,port);<br />
-})`
+})
+</code>
