@@ -8,7 +8,7 @@ guid: https://ekojunaidisalam.com/?page_id=11
 dsq_thread_id:
   - "4387940328"
 ---
-<div style="text-align: center;"><img src="https://ekojunaidisalam.com/wp-content/uploads/2015/12/Ekojs-203x300.jpg" alt="Tentang Saya" /></div>
+<div style="text-align: center;"><img src="{{site.baseurl}}/wp-content/uploads/2015/12/Ekojs-203x300.jpg" alt="Tentang Saya" /></div>
 
 <p style="text-align: justify;">
   <strong>Hai&#8230;! </strong>Nama saya Eko Junaidi Salam, Madura yang dikenal sebagai pulau penghasil garam pada tanggal 04 Juni 1990 tepatnya di kota Pamekasan, alhamdulillah lahirlah saya dengan selamat di kota setempat dari keluarga yang tergolong sederhana, namun penuh kasih sayang. Dan kisah tentang saya dari situlah dimulai.

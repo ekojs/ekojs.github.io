@@ -9,7 +9,7 @@ dsq_thread_id:
   - ""
 ---
 <h2 style="text-align: center;">
-  <a href="http://ekojunaidisalam.com/wp-content/uploads/2015/12/Picture-004.jpg"><img class="alignnone size-medium wp-image-313" src="http://ekojunaidisalam.com/wp-content/uploads/2015/12/Picture-004-225x300.jpg" alt="" width="225" height="300" srcset="https://ekojunaidisalam.com/wp-content/uploads/2015/12/Picture-004-225x300.jpg 225w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/Picture-004-768x1024.jpg 768w, https://ekojunaidisalam.com/wp-content/uploads/2015/12/Picture-004.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+  <a href="{{site.baseurl}}/wp-content/uploads/2015/12/Picture-004.jpg"><img class="alignnone size-medium wp-image-313" src="{{site.baseurl}}/wp-content/uploads/2015/12/Picture-004-225x300.jpg" alt="" width="225" height="300" srcset="{{site.baseurl}}/wp-content/uploads/2015/12/Picture-004-225x300.jpg 225w, {{site.baseurl}}/wp-content/uploads/2015/12/Picture-004-768x1024.jpg 768w, {{site.baseurl}}/wp-content/uploads/2015/12/Picture-004.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" /></a>
 </h2>
 
 <h2 style="text-align: center;">
