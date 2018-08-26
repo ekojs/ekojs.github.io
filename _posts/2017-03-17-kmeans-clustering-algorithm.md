@@ -2,6 +2,8 @@
 layout: post
 title: Demo K-Means Clustering Algorithm
 author: Eko Junaidi Salam
+date: 2017-03-17T02:02:49+00:00
+permalink: /2017/03/17/demo-kmeans/
 categories:
   - Algorithm
   - Artikel

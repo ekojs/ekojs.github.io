@@ -2,6 +2,8 @@
 layout: post
 title: Integrating CodeIgniter 3 with Laravel-Mix
 author: Eko Junaidi Salam
+date: 2018-08-25T21:26:56+00:00
+permalink: /2018/08/25/integrate-ci3-with-laravel-mix/
 categories:
   - Programming
   - Artikel
