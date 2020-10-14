@@ -34,7 +34,7 @@ dsq_needs_sync:
 </p>
 
 <li style="text-align: justify;">
-  Kontak : +6285648430689
+  Kontak : eko_junaidisalam@live.com
 </li>
 <li style="text-align: justify;">
   Facebook : <a href="https://www.facebook.com/ekojunaidisalam" target="_blank">https://www.facebook.com/ekojunaidisalam</a>
